@@ -1,0 +1,1 @@
+<script src="<?php echo base_url(); ?>adminLTE/js/pages/dashboard.js"></script>
